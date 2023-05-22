@@ -1,7 +1,7 @@
+# [📈 Live Status](https://fearedfusionx.github.io/statusesofpagesIuse): <!--live status--> **🟧 Partial outage**
+
 ## Congrats!
 ### You stumbled on an absolutely random Respository. Now get out.
-
-# [📈 Live Status](https://fearedfusionx.github.io/statusesofpagesIuse): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Sinjin](https://fearedfusionx.github.io/statusesofpagesIuse), powered by [Upptime](https://github.com/upptime/upptime).
 
