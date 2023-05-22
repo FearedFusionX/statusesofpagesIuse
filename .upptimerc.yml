@@ -5,10 +5,10 @@ repo: statusesofpagesIuse # The name of this repository
 sites:
   - name: Schoology LAUSD
     url: https://lms.lausd.net
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Desmos
+    url: https://www.desmos.com/calculator
+  - name: Deltamath
+    url: https://www.deltamath.com/app/student
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
